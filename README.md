@@ -11,10 +11,10 @@ pset 1 - Markdown
 
 Utilizei os SBGD para gerar os scripts, Usei o Power Architect para fazer a tabela e corrigir ela.
 
-*passo a passo e Erros no pset:
+*Passo a passo e Erros no pset:
 
-1) primeiro passo foi fazer a tabela, encontrei os erros (estavam sem o "NOT NULL", "AK", etc...).
+1) Primeiro passo foi fazer a tabela, encontrei os erros (estavam sem o "NOT NULL", "AK", etc...).
 
-2) segundo passo foi gerar os scripts pelos SGBD.
+2) Segundo passo foi gerar os scripts pelos SGBD.
 
-3) terceiro passo foi encaminhar pro GitHub.
+3) Terceiro passo foi encaminhar pro GitHub.
