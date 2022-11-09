@@ -9,7 +9,7 @@ pset 1 - Markdown
 
 *Descrição:
 
-Utilizei os SBGD para gerar os scripts, Usei o Power Architect para fazer a tabela e corrigir ela.
+Utilizei os SBGD para gerar os scripts e Usei o Power Architect para fazer a tabela e corrigir ela.
 
 *Passo a passo e Erros no pset:
 
