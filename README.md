@@ -19,10 +19,6 @@ Utilizei os SBGD para gerar os scripts e Usei o Power Architect para fazer a tab
 
 3) Terceiro passo foi encaminhar pro GitHub.
 
-*O que é? 
-
-Um PSet é um conjunto de problemas. O objetivo é fazer o aluno a aprenda e entender o que é um Banco de Dados.
-
 *Os objetivos deste PSet:
 
 Aprender sobre Markdown e ensinar sobre projetos lógicos em SGBD's, utilizando os quatro SGBD's: PostgreSQL, Oracle, MariaBD/MySQL e MS SQL Server.
