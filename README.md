@@ -13,8 +13,8 @@ Utilizei os SBGD para gerar os scripts, Usei o Power Architect para fazer a tabe
 
 *Erros e acertos no pset:
 
-*primeiro passo foi fazer a tabela, encontrei os erros (estavam sem o "NOT NULL", "AK", etc...).
+1) primeiro passo foi fazer a tabela, encontrei os erros (estavam sem o "NOT NULL", "AK", etc...).
 
-*segundo passo foi gerar os scripts pelos SGBD.
+2) segundo passo foi gerar os scripts pelos SGBD.
 
-*terceiro passo foi encaminhar pro GitHub.
+3) terceiro passo foi encaminhar pro GitHub.
