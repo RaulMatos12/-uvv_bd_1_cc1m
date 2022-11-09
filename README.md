@@ -11,7 +11,7 @@ pset 1 - Markdown
 
 Utilizei os SBGD para gerar os scripts, Usei o Power Architect para fazer a tabela e corrigir ela.
 
-*Erros e acertos no pset:
+*passo a passo e Erros no pset:
 
 1) primeiro passo foi fazer a tabela, encontrei os erros (estavam sem o "NOT NULL", "AK", etc...).
 
